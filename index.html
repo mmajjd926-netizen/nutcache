@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nutcache — bury sats behind a riddle</title>
+    <meta name="description" content="Lock Cashu ecash behind a riddle. Whoever knows the answer digs the sats up; nobody else can. NUT-14 hashlocks, no server." />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥜</text></svg>" />
+  </head>
+  <body>
+    <header class="top">
+      <a class="brand" href="#/"><span class="nut">🥜</span> Nutcache <small>bury sats behind a riddle</small></a>
+      <nav>
+        <a href="#/" data-nav="board">Dig</a>
+        <a href="#/bury" data-nav="bury">Bury</a>
+        <a href="#/my" data-nav="my">My nuts</a>
+      </nav>
+    </header>
+    <main id="app"></main>
+    <footer class="foot">
+      Ecash locked to the hash of your answer (Cashu <a href="https://github.com/cashubtc/nuts/blob/main/14.md">NUT-14</a>).
+      No server: the cache travels in the link, the mint is the referee.
+      <a href="https://github.com/mmajjd926-netizen/nutcache">Source</a>
+    </footer>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
