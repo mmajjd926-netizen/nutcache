@@ -9,6 +9,8 @@ page, not a server. There is no server.
 Chain riddles into a **hunt**: each answer pays out its stage *and* unlocks the next riddle, which nobody can
 even read before solving the one before it.
 
+![The map](docs/board.png)
+
 ![Digging up a nut](docs/won.png)
 
 ## How it works
