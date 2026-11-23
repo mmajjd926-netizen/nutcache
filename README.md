@@ -2,6 +2,10 @@
 
 **Live: https://mmajjd926-netizen.github.io/nutcache/**
 
+**One-minute walkthrough (captioned video):** [watch walkthrough.mp4](https://mmajjd926-netizen.github.io/nutcache/walkthrough.mp4): bury a 2-stage hunt on the test mint, then dig it up from another browser (a wrong guess refused offline, stage 1 paid out, stage 2 unsealed and paid).
+
+[![Nutcache walkthrough video: digging up stage 1 of a hunt](docs/walkthrough.jpg)](https://mmajjd926-netizen.github.io/nutcache/walkthrough.mp4)
+
 Write a riddle, lock some ecash to its answer, share the link (or print the card and tape it to a tree).
 Whoever figures out the answer digs the sats up, straight from the mint. Nobody else can: not you, not this
 page, not a server. There is no server.
